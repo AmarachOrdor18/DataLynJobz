@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv311
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data Files (too large for git)
+data/raw/*.xlsx
+data/raw/*.csv
+data/raw/*.xls
+data/processed/*.xlsx
+data/processed/*.csv
+*.zip
+*.rar
+
+# Exclude large model files (optional - keep if needed)
+# model/*.xlsx
+# model/*.csv
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.doc
+~$*.docx
+
+# Power BI
+*.pbix.tmp
+*.pbit
+*_backup.pbix
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
