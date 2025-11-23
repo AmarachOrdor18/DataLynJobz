@@ -39,6 +39,7 @@ This project provides comprehensive insights into the data analytics job market 
 linkedin-job-analytics/
 ├── notebooks/           # Jupyter notebooks for data processing
 ├── app/                # Streamlit dashboard
+├── powerbi/            # powerbi dashboard
 ├── model/              # Dimension tables & association rules
 ├── data/               # Raw and processed data (not tracked)
 └── docs/               # Documentation
