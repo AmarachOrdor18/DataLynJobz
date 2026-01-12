@@ -223,6 +223,9 @@ From analyzing 6,669 data analyst job postings:
 - Data Engineering: 33.14% (ETL, Data Modeling, Data Warehouse)
 - ML Skills: 24.08% (Automation, Machine Learning, Predictive Modeling)
 
+<img width="1337" height="690" alt="image" src="https://github.com/user-attachments/assets/1e9350ab-a29a-4d78-8e4e-962e1a33d215" />
+
+
 **Job Market Trends:**
 - 97.74% of jobs require basic skills
 - 55.75% require advanced/specialized skills
