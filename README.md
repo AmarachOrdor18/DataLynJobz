@@ -215,6 +215,9 @@ From analyzing 6,669 data analyst job postings:
 - Soft Skills: Communication (80.6%), Problem-solving, Collaboration
 - Analytical: Data Visualization (58.45%), Statistical Analysis
 
+<img width="1343" height="685" alt="image" src="https://github.com/user-attachments/assets/535eb9e8-0a0b-4a98-9b04-d0d1ba8cb279" />
+
+
 **Advanced Skills Coverage:**
 - Cloud Skills: 24.62% (AWS leading at 1,642 mentions)
 - Data Engineering: 33.14% (ETL, Data Modeling, Data Warehouse)
