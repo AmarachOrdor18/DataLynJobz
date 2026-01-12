@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 
+<img width="1343" height="692" alt="image" src="https://github.com/user-attachments/assets/d8c378a0-e1e2-43cc-9c4e-4ac63d5686c0" />
+
 ## 🎯 Project Overview
 
 This project provides comprehensive insights into the data analytics job market by:
