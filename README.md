@@ -119,7 +119,7 @@ streamlit run app/app.py
 ```
 - Opens at `http://localhost:8501`
 
-## 📱 Dashboard Features
+## Dashboard Features
 
 ### Power BI Dashboard (3 Pages)
 
@@ -206,7 +206,7 @@ Dimension Tables:
 8. **Degree**: Computer Science, Statistics, Mathematics
 9. **Domain**: Finance, Healthcare, Retail, Technology
 
-## 📊 Key Insights
+## Key Insights
 
 From analyzing 6,669 data analyst job postings:
 
