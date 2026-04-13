@@ -7,7 +7,7 @@
 
 <img width="1343" height="692" alt="image" src="https://github.com/user-attachments/assets/d8c378a0-e1e2-43cc-9c4e-4ac63d5686c0" />
 
-## 🎯 Project Overview
+## Project Overview
 
 This project provides comprehensive insights into the data analytics job market by:
 - Cleaning and processing 6,000+ scraped LinkedIn job postings (2024 data) obtained from [Rafa Bela-Kurows' dataset](https://github.com/rafabelokurows/data-analyst-job-skills/tree/main/data)
