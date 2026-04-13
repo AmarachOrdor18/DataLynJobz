@@ -1,4 +1,4 @@
-# 📊 LinkedIn Job Analytics: Data Analyst Skills Intelligence
+# LinkedIn Job Analytics: Data Analyst Skills Intelligence
 
 > An end-to-end data analytics project analyzing LinkedIn job postings to uncover skill requirements, trends, and associations in the data analytics field.
 
@@ -17,16 +17,16 @@ This project provides comprehensive insights into the data analytics job market 
 - Creating an interactive Streamlit dashboard for exploration
 
 
-## ✨ Key Features
+## Key Features
 
-- **📝 Data Cleaning Pipeline**: Translates non-English postings, extracts HTML, and standardizes data
-- **🗂️ Star Schema Design**: Dimension and fact tables optimized for BI tools
-- **🔍 Skill Association Mining**: Discovers which skills frequently appear together
-- **📊 Power BI Dashboard**: Interactive visualizations for deep insights
-- **📈 Streamlit App**: 3-page interactive web app with ML-powered predictions
-- **🤖 ML Model**: Predicts seniority level based on skill combinations
+- **Data Cleaning Pipeline**: Translates non-English postings, extracts HTML, and standardizes data
+- **Star Schema Design**: Dimension and fact tables optimized for BI tools
+- **Skill Association Mining**: Discovers which skills frequently appear together
+- **Power BI Dashboard**: Interactive visualizations for deep insights
+- **Streamlit App**: 3-page interactive web app with ML-powered predictions
+- **ML Model**: Predicts seniority level based on skill combinations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: Python 3.11
 - **Data Processing**: pandas, numpy
@@ -35,7 +35,7 @@ This project provides comprehensive insights into the data analytics job market 
 - **Visualization**: plotly, streamlit
 - **BI Integration**: Power BI compatible outputs
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 linkedin-job-analytics/
@@ -47,7 +47,7 @@ linkedin-job-analytics/
 └── docs/               # Documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ conda activate job-analytics
 pip install -r requirements.txt
 ```
 
-### 📊 Running the Analysis
+### Running the Analysis
 
 #### Step 1: Data Cleaning
 ```bash
@@ -123,7 +123,7 @@ streamlit run app/app.py
 
 ### Power BI Dashboard (3 Pages)
 
-**📊 Page 1: Overview**
+**Page 1: Overview**
 - Total jobs analyzed (6,669)
 - Monthly job posting trends
 - Entry level breakdown (445 jobs, 6.67%)
@@ -131,7 +131,7 @@ streamlit run app/app.py
 - Educational requirements breakdown
 - Talent demand by domain (Technology 35%, Financial 25%, Retail 9%, Healthcare 7%)
 
-**🎯 Page 2: Basic Skills**
+**Page 2: Basic Skills**
 - Basic skill mentions (6,518 total, 97.74% coverage)
 - Breakdown by category:
   - Soft Skills: 5,373 mentions (80.6%)
@@ -143,7 +143,7 @@ streamlit run app/app.py
 - Company skill demand (TikTok, Meta, Amazon, GRAYCE)
 - Monthly trends and seniority level filters
 
-**⚙️ Page 3: Add-on Skills (Advanced)**
+**Page 3: Add-on Skills (Advanced)**
 - Advanced skill mentions (3,718 total, 55.75% coverage)
 - Cloud skills: AWS (1,642), Azure, Snowflake (24.62% coverage)
 - Data Engineering: ETL, Data Modeling, Data Warehouse (33.14% coverage)
@@ -154,22 +154,22 @@ streamlit run app/app.py
 
 ### Streamlit App
 
-**1️⃣ Skill Mix Predictor by Role**
+**Skill Mix Predictor by Role**
 - Select a seniority level (Entry, Junior, Mid, Senior, Lead)
 - Get recommended skill mix across 9 categories
 - See top technical skills (SQL, Python, Tableau, etc.)
 
-**2️⃣ Skill Association Finder**
+**Skill Association Finder**
 - Search for any skill (e.g., "Python", "SQL", "Excel")
 - Discover skills frequently paired together
 - View confidence scores for associations
 
-**3️⃣ Predict My Seniority Level**
+**Predict My Seniority Level**
 - Select your skills from 9 categories
 - ML model predicts best-fit seniority level
 - See probability distribution across all levels
 
-## 📈 Data Model
+## Data Model
 
 ### Star Schema Design
 ```
@@ -194,7 +194,7 @@ Dimension Tables:
 └── dim_seniority
 ```
 
-## 🎓 Skill Categories
+##  Skill Categories
 
 1. **Soft Skills**: Communication, Problem-solving, Teamwork
 2. **Analytical Skills**: Data Visualization, Statistical Analysis
@@ -243,12 +243,12 @@ From analyzing 6,669 data analyst job postings:
 - 60.41% jobs mention education requirements
 - Top degrees: Engineering (2.22K), Statistics (1.85K), Computer Science (1.66K)
 
-## 👤 Author
+## Author
 
 **Your Name**
 - GitHub: [@AmarachOrdor18](https://github.com/AmarachOrdor18)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Data sourced from LinkedIn job postings (2024)
 - Built with love for the data analytics community
@@ -260,4 +260,4 @@ For questions or feedback, please open an issue or contact [amarachiordor2@gmail
 
 ---
 
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+**If you found this project helpful, please consider giving it a star!**
