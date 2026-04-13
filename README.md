@@ -211,9 +211,9 @@ Dimension Tables:
 From analyzing 6,669 data analyst job postings:
 
 **Most In-Demand Skills:**
-- Technical Skills: SQL (95.74%), Excel, Python, Reporting
-- Soft Skills: Communication (80.6%), Problem-solving, Collaboration
-- Analytical: Data Visualization (58.45%), Statistical Analysis
+- Technical Skills:95.74%( SQL, Excel, Python, Reporting)
+- Soft Skills: 80.6% (Communication, Problem-solving, Collaboration)
+- Analytical: 58.45% (Data Visualisation, Statistical Analysis)
 
 <img width="1343" height="685" alt="image" src="https://github.com/user-attachments/assets/535eb9e8-0a0b-4a98-9b04-d0d1ba8cb279" />
 
@@ -254,7 +254,7 @@ From analyzing 6,669 data analyst job postings:
 - Built with love for the data analytics community
 - Thanks to all contributors and users
 
-## 📧 Contact
+## Contact
 
 For questions or feedback, please open an issue or contact [amarachiordor2@gmail.com](mailto:amarachiordor2@gmail.com)
 
